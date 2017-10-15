@@ -1,0 +1,9 @@
+C:\Users\Dick\source\repos\Windows_ArchitectureTest\Windows_ArchitectureTest\bin\Release\Windows_ArchitectureTest.exe
+C:\Users\Dick\source\repos\Windows_ArchitectureTest\Windows_ArchitectureTest\bin\Release\Windows_ArchitectureTest.pdb
+C:\Users\Dick\source\repos\Windows_ArchitectureTest\Windows_ArchitectureTest\bin\Release\Windows_ArchitectureTest.xml
+C:\Users\Dick\source\repos\Windows_ArchitectureTest\Windows_ArchitectureTest\obj\Release\Windows_ArchitectureTest.Resources.resources
+C:\Users\Dick\source\repos\Windows_ArchitectureTest\Windows_ArchitectureTest\obj\Release\Windows_ArchitectureTest.vbproj.GenerateResource.Cache
+C:\Users\Dick\source\repos\Windows_ArchitectureTest\Windows_ArchitectureTest\obj\Release\Windows_ArchitectureTest.vbproj.CoreCompileInputs.cache
+C:\Users\Dick\source\repos\Windows_ArchitectureTest\Windows_ArchitectureTest\obj\Release\Windows_ArchitectureTest.exe
+C:\Users\Dick\source\repos\Windows_ArchitectureTest\Windows_ArchitectureTest\obj\Release\Windows_ArchitectureTest.xml
+C:\Users\Dick\source\repos\Windows_ArchitectureTest\Windows_ArchitectureTest\obj\Release\Windows_ArchitectureTest.pdb
